@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.ArrayList;
 
 public class l_202 {
